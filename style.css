@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #1e1919;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header, footer {
+    background-color: hsla(140, 5%, 11%, 0.947);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+section p {
+    margin-bottom: 20px;
+}
+
+section ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 14px;
+}
+.imagem{
+    width: 15%;
+    
+}
+.zim{
+    width: 15%;
+}
+
+.tchola2{
+    width: 5%;
+}
+.blanco{
+    width: 34%;
+}
+.gugu{
+    width: 15%;
+}
+
+.fuki{
+    width: 18%;
+}
+.blube{
+    width: 7%;
+}
+
+.xray {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    color: blanchedalmond;
+}
